@@ -1,4 +1,8 @@
-[简体中文] (README_zh_CN.md) [英語](README.md)
+<h1 align="center">😍Evernight Vista - Fedora Linuxベースの二次元Linuxディストリビューション😍</h1>
+
+<div align="center">
+
+[**简体中文**](README_zh_CN.md) |  [**English**](README.md)  | [**日本語**](README_JP.md)
 
 ## <font color=#2f81f7>概要</font>
 
