@@ -1,4 +1,4 @@
-<h1 align="center">😍Evernight Vista - Based on Fedora Linux - Anime Linux Distro😍</h1>
+<h1 align="center">😍Evernight Vista - Based on Fedora Linux - Anime-themed Linux distribution😍</h1>
 
 <div align="center">
 
