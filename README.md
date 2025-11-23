@@ -11,7 +11,7 @@
 
 Evernight Vista is an open-source operating system, Based on Fedora Linux.A Linux distribution themed around Honkai: Star Rail.
 
-Fedora Linux is fast, stable, and secure and also allowing you to have a great experience even on older computers.However, Fedora Linux is also aimed at more experienced users. As such, it is generally considered to be beyond the reach of those who need more technical expertise or persistence to use it. This is why Evernight Vista was born, to inherit the advantages of arch while making it more user-friendly, so that you can enjoy it without complicated installation and configuration.
+Fedora Linux is fast, stable, and secure and also allowing you to have a great experience even on older computers.However, Fedora Linux is also aimed at more experienced users. As such, it is generally considered to be beyond the reach of those who need more technical expertise or persistence to use it. This is why Evernight Vista was born, to inherit the advantages of Fedora Linux while making it more user-friendly, so that you can enjoy it without complicated installation and configuration.
 
 ## <font color=#2f81f7>Why Evernight Vista?</font>
 
