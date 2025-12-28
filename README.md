@@ -16,7 +16,7 @@ Fedora Linux is fast, stable, and secure and also allowing you to have a great e
 ## <font color=#2f81f7>Why Evernight Vista?</font>
 
 ### 🔐 <font color=#2f81f7>Powerful & Secure</font>
-Evernight Vista use SELinux and enforcing by default.Of Course,Evernight Vista support secureboot!
+Evernight Vista use SELinux.Of Course,Evernight Vista support secureboot!
 
 ### 💻 <font color=#2f81f7>Easy to install</font>
 Evernight Vista use anaconda installer.It's Friendly and convenient.
