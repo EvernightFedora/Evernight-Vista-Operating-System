@@ -20,7 +20,7 @@ Evernight Vista はデフォルトで SELinux を使用。もちろん、Evernig
 Evernight VistaはAnacondaインストーラーを使用しています。インターフェースは使いやすく、シンプルです。
 
 ### 🏪 <font color=#2f81f7>ワンストップソフトウェアエコシステム</font>
-Evernight Vista は RPM パッケージ、flatpak、snap、linglong をサポートしています。よく使うソフトウェアをワンストップで入手できます。
+Evernight Vista は RPM パッケージ、flatpak、linglong をサポートしています。よく使うソフトウェアをワンストップで入手できます。
 
 ### 🆙 <font color=#2f81f7>使いやすさ</font>
 Evernight Vistaは優れたオペレーティングシステムのユーザー体験を提供することを目指しており、ユーザーの技術的な背景に関係なく、誰でも簡単にEvernight Vistaを使いこなせると私たちは信じています。
