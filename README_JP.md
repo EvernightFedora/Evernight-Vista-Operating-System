@@ -14,7 +14,7 @@ Fedora Linuxは優れたLinuxディストリビューションであり、迅速
 ## <font color=#2f81f7>Evernight Vista を選ぶ理由</font>
 
 ### 🔐 <font color=#2f81f7>強力で安全</font>
-Evernight Vista はデフォルトで SELinux を使用し、強制モードを有効にしており。もちろん、Evernight Vista はセキュアブートにも対応しています！
+Evernight Vista はデフォルトで SELinux を使用。もちろん、Evernight Vista はセキュアブートにも対応しています！
 
 ### 💻 <font color=#2f81f7>簡単にインストール</font>
 Evernight VistaはAnacondaインストーラーを使用しています。インターフェースは使いやすく、シンプルです。
