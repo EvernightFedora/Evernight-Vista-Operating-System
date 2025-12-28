@@ -17,7 +17,7 @@ Fedora Linux是一个优秀的Linux发行版，快速、稳定、安全，即使
 ## <font color=#2f81f7>为什么选择Evernight Vista?</font>
 
 ### 🔐 <font color=#2f81f7>强大、安全</font>
-Evernight Vista 默认使用 SELinux 并启用强制模式。当然，Evernight Vista 支持安全启动！
+Evernight Vista 默认使用 SELinux。当然，Evernight Vista 支持安全启动！
 
 ### 💻 <font color=#2f81f7>安装简便</font>
 Evernight Vista使用anaconda安装程序。界面友好、简单。
