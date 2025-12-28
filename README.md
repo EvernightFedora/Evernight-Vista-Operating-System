@@ -22,7 +22,7 @@ Evernight Vista use SELinux.Of Course,Evernight Vista support secureboot!
 Evernight Vista use anaconda installer.It's Friendly and convenient.
 
 ### 🏪 <font color=#2f81f7>One-Stop Software Eco System</font>
-Evernight Vista supports RPM Packages,flatpak,snap and linglong.Common software, all in one place.
+Evernight Vista supports RPM Packages,flatpak and linglong.Common software, all in one place.
 
 ### 🆙 <font color=#2f81f7>Usability</font>
 Evernight Vista is designed to be user-friendly. We believe that anyone, regardless of their technical background, should be able to use and benefit from Evernight Vista.
