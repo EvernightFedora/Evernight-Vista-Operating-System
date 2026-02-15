@@ -1,4 +1,4 @@
-<h1 align="center">😍Evernight Vista - Based on Fedora Linux - Anime-themed Linux distribution😍</h1>
+<h1 align="center">Evernight Vista - Based on Fedora Linux</h1>
 
 <div align="center">
 
@@ -9,20 +9,20 @@
 
 ## <font color=#2f81f7>Overview</font>
 
-Evernight Vista is an open-source operating system, Based on Fedora Linux.A Linux distribution themed around Honkai: Star Rail.
+Evernight Vista is an open-source operating system, Based on Fedora Linux.
 
 Fedora Linux is fast, stable, and secure and also allowing you to have a great experience even on older computers.However, Fedora Linux is also aimed at more experienced users. As such, it is generally considered to be beyond the reach of those who need more technical expertise or persistence to use it. This is why Evernight Vista was born, to inherit the advantages of Fedora Linux while making it more user-friendly, so that you can enjoy it without complicated installation and configuration.
 
 ## <font color=#2f81f7>Why Evernight Vista?</font>
 
 ### 🔐 <font color=#2f81f7>Powerful & Secure</font>
-Evernight Vista use SELinux.Of Course,Evernight Vista support secureboot!
+Evernight Vista use SELinux.And Evernight Vista support secureboot!
 
 ### 💻 <font color=#2f81f7>Easy to install</font>
 Evernight Vista use anaconda installer.It's Friendly and convenient.
 
 ### 🏪 <font color=#2f81f7>One-Stop Software Eco System</font>
-Evernight Vista supports RPM Packages,flatpak and linglong.Common software, all in one place.
+Evernight Vista supports RPM Packages,flatpak,apm and linyaps.Common software, all in one place.
 
 ### 🆙 <font color=#2f81f7>Usability</font>
 Evernight Vista is designed to be user-friendly. We believe that anyone, regardless of their technical background, should be able to use and benefit from Evernight Vista.

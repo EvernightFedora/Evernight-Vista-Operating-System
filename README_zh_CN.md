@@ -1,4 +1,4 @@
-<h1 align="center">😍Evernight Vista - 基于Fedora Linux - 二次元Linux发行版😍</h1>
+<h1 align="center">Evernight Vista - 基于Fedora Linux</h1>
 
 <div align="center">
 
@@ -10,20 +10,20 @@
 
 ## <font color=#2f81f7>简介</font>
 
-Evernight Vista 是一个开源操作系统，基于 Fedora Linux。一个以《崩坏：星穹铁道》为主题的 Linux 发行版。
+Evernight Vista 是一个开源操作系统，基于 Fedora Linux。
 
 Fedora Linux是一个优秀的Linux发行版，快速、稳定、安全，即使是在老旧的计算机上也能有非常出色的体验。但是纯指令式的安装过程较为复杂，需要有较高的计算机基础，您需要为此付出足够的时间、精力和耐心，即使顺利安装完成，您还将面临安装图形界面、配置软件源、安装输入法、安装显卡驱动等一系列的配置过程，并不是每个人都有足够的时间、精力和耐心完全这一切，很多新手可能会被这一艰巨的过程阻挡在Fedora Linux新世界的大门之外。这正式Evernight Vista诞生的理由，在继承Fedora Linux优点的同时，使其安装简便、开箱即用、更加用户友好，无需复杂的安装和配置，您就可以领略到Fedora Linux的魅力！
 
 ## <font color=#2f81f7>为什么选择Evernight Vista?</font>
 
 ### 🔐 <font color=#2f81f7>强大、安全</font>
-Evernight Vista 默认使用 SELinux。当然，Evernight Vista 支持安全启动！
+Evernight Vista 默认使用 SELinux。并且，Evernight Vista 支持安全启动（需MOK登记）！
 
 ### 💻 <font color=#2f81f7>安装简便</font>
 Evernight Vista使用anaconda安装程序。界面友好、简单。
 
 ### 🏪 <font color=#2f81f7>一站式的软件生态系统</font>
-Evernight Vista 支持 RPM 包、flatpak和如意玲珑。常用软件，一站式获得。
+Evernight Vista 支持 RPM 包、flatpak、APM应用商店和如意玲珑。常用软件，一站式获得。
 
 ### 🆙 <font color=#2f81f7>用户友好</font>
 Evernight Vista旨在提供出色的操作系统用户体验，我们相信不管用户的技术背景如何, 都能轻松上手和享用Evernight Vista。
