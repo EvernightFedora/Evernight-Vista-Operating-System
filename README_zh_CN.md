@@ -23,16 +23,16 @@ Evernight Vista 默认使用 SELinux。并且，Evernight Vista 支持安全启�
 Evernight Vista使用anaconda安装程序。界面友好、简单。
 
 ### 🏪 <font color=#2f81f7>一站式的软件生态系统</font>
-Evernight Vista 支持 RPM 包、flatpak、APM应用商店和如意玲珑。常用软件，一站式获得。
+Evernight Vista 支持 RPM 包、flatpak和如意玲珑。常用软件，一站式获得。
 
-### 🆙 <font color=#2f81f7>用户友好</font>
-Evernight Vista旨在提供出色的操作系统用户体验，我们相信不管用户的技术背景如何, 都能轻松上手和享用Evernight Vista。
+### 🆙 <font color=#2f81f7>用户友好与先进的硬件支持</font>
+Evernight Vista旨在提供出色的操作系统用户体验，我们相信不管用户的技术背景如何, 都能轻松上手和享用Evernight Vista。并且Evernight Vista 支持最新硬件（例如游戏手柄、修复键盘无法使用的问题等）
 
 ### 🚀 <font color=#2f81f7>快速稳定</font>
-得益于Fedora Linux的优秀特性，Evernight Vista是一个轻量、快速、稳定的系统。Evernight Vista使用全新的SCX调度引擎，性能更佳！
+得益于Fedora Linux的优秀特性，Evernight Vista是一个轻量、快速、稳定的系统。
 
 
 
 ## <font color=#2f81f7>反馈</font>
 
-Evernight Vista目前仍处于快速开发阶段，有任何问题请提交issues。或者加入Evernight Insider QQ官方群（758777563），参与开发或者提供反馈意见，每一个意见我们都会认真对待并且给出回复，期待与您共同打造一款优秀的中文Linux发行版。
+Evernight Vista是由怪力熊玩Fedora社区开发，有任何问题请打开issue工单。或者加入怪力熊玩Fedora社区QQ官方群（942117790），参与开发或者提供反馈意见，每一个意见我们都会认真对待并且给出回复，期待与您共同打造一款优秀的中文Linux发行版。

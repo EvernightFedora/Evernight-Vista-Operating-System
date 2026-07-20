@@ -20,15 +20,15 @@ Evernight Vista はデフォルトで SELinux を使用。もちろん、Evernig
 Evernight VistaはAnacondaインストーラーを使用しています。インターフェースは使いやすく、シンプルです。
 
 ### 🏪 <font color=#2f81f7>ワンストップソフトウェアエコシステム</font>
-Evernight Vista は RPM パッケージ、flatpak、apm、linyaps をサポートしています。よく使うソフトウェアをワンストップで入手できます。
+Evernight Vista は RPM パッケージ、flatpak、linyaps をサポートしています。よく使うソフトウェアをワンストップで入手できます。
 
-### 🆙 <font color=#2f81f7>使いやすさ</font>
-Evernight Vistaは優れたオペレーティングシステムのユーザー体験を提供することを目指しており、ユーザーの技術的な背景に関係なく、誰でも簡単にEvernight Vistaを使いこなせると私たちは信じています。
+### 🆙 <font color=#2f81f7>使いやすさとハードウェアのサポート</font>
+Evernight Vistaは優れたオペレーティングシステムのユーザー体験を提供することを目指しており、ユーザーの技術的な背景に関係なく、誰でも簡単にEvernight Vistaを使いこなせると私たちは信じています。そして、Evernight Vistaは最新のハードウェア（例えば、ゲームコントローラー、動かないキーボードの修正など）をサポートしています
 
 ### 🚀 <font color=#2f81f7>速度と信頼性</font>
-Fedora Linuxの優れた特性のおかげで、Evernight Vistaは軽量で高速、安定したシステムです。Evernight Vistaは新しいSCXスケジューリングエンジンを使用しており、さらに高性能です！
+Fedora Linuxの優れた特性のおかげで、Evernight Vistaは軽量で高速、安定したシステムです。
 
 
 ## <font color=#2f81f7>フィードバック</font>
 
-Evernight Vista は現在開発段階にあります。発生した問題を報告してください。問題がある場合はお気軽にお問い合わせください。
+Evernight Vista は、コミュニティによって開発されたオペレーティングシステムだよ。発生した問題を報告してください。問題がある場合はお気軽にお問い合わせください。
